@@ -1,0 +1,11 @@
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\bin\Debug\Demo.exe.config
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\bin\Debug\Demo.exe
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\bin\Debug\Demo.pdb
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\bin\Debug\PanGu.dll
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\bin\Debug\PanGu.pdb
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\obj\Debug\Pangu.Demo.csprojResolveAssemblyReference.cache
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\obj\Debug\Demo.FormDemo.resources
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\obj\Debug\Pangu.Demo.csproj.GenerateResource.Cache
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\obj\Debug\Demo.exe
+E:\旅游\PanGu4Lucene\trunk\PanGu.Demo\obj\Debug\Demo.pdb

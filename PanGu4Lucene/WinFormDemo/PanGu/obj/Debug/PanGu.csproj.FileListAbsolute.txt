@@ -1,0 +1,7 @@
+E:\旅游\PanGu4Lucene\trunk\PanGu\bin\Debug\PanGu.dll
+E:\旅游\PanGu4Lucene\trunk\PanGu\bin\Debug\PanGu.pdb
+E:\旅游\PanGu4Lucene\trunk\PanGu\obj\Debug\PanGu.csprojResolveAssemblyReference.cache
+E:\旅游\PanGu4Lucene\trunk\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+E:\旅游\PanGu4Lucene\trunk\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+E:\旅游\PanGu4Lucene\trunk\PanGu\obj\Debug\PanGu.dll
+E:\旅游\PanGu4Lucene\trunk\PanGu\obj\Debug\PanGu.pdb

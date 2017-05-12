@@ -1,0 +1,7 @@
+E:\旅游\PanGu\trunk\Bin\Debug\PosDisplayCtrl.dll
+E:\旅游\PanGu\trunk\Bin\Debug\PosDisplayCtrl.pdb
+E:\旅游\PanGu\trunk\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.csprojResolveAssemblyReference.cache
+E:\旅游\PanGu\trunk\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.PosCtrl.resources
+E:\旅游\PanGu\trunk\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.csproj.GenerateResource.Cache
+E:\旅游\PanGu\trunk\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.dll
+E:\旅游\PanGu\trunk\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.pdb

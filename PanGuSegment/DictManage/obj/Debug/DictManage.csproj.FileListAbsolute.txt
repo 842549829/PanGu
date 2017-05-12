@@ -1,0 +1,12 @@
+E:\旅游\PanGu\trunk\Bin\Debug\DictManage.exe
+E:\旅游\PanGu\trunk\Bin\Debug\DictManage.pdb
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.csprojResolveAssemblyReference.cache
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.FormBatchInsert.resources
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.FormEncoder.resources
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.FormFind.resources
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.FormInputDictVersion.resources
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.FormMain.resources
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.Properties.Resources.resources
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.csproj.GenerateResource.Cache
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.exe
+E:\旅游\PanGu\trunk\PanGuSegment\DictManage\obj\Debug\DictManage.pdb
